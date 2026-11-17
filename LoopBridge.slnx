@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="LoopBridge.Api/LoopBridge.Api.csproj" />
+  <Project Path="LoopBridge.Common/LoopBridge.Common.csproj" Id="95f45797-edf3-45d0-9200-4ac34189a6e3" />
+  <Project Path="LoopBridge.Enums/LoopBridge.Enums.csproj" Id="91977ba1-41ee-4acc-b6cb-cfc141d1098e" />
+  <Project Path="LoopBridge.Models/LoopBridge.Models.csproj" Id="8e80012b-e5ee-4e2d-bfe8-5dacdbafad82" />
+  <Project Path="LoopBridge.Repositories/LoopBridge.Repositories.csproj" Id="9590ebd1-dcba-4eb0-acda-bf8e2945f12e" />
+  <Project Path="LoopBridge.Services/LoopBridge.Services.csproj" Id="677d217b-82ec-4e96-8061-29b396592a75" />
+  <Project Path="LoopBridge.ViewModels/LoopBridge.ViewModels.csproj" Id="431d56e8-ceb6-4335-a424-618815dd73a4" />
+</Solution>

@@ -1,0 +1,6 @@
+@LoopBridge.Api_HostAddress = http://localhost:5289
+
+GET {{LoopBridge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
